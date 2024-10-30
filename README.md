@@ -1,0 +1,1 @@
+This TurboWarp extension is able to take in multiple strings and then join them together. This is useful for those who uses tons of join()() blocks.
